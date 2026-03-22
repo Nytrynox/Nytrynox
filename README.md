@@ -11,7 +11,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3C%2F%3E+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B2+65%2B+PROJECTS+%7C+18+AI%2FML+SYSTEMS+%E2%96%B2;%E2%97%86+SELF-EVOLVING+AGENTS+%7C+COMPUTER+VISION+%E2%97%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3C%2F%3E+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B2+88+PROJECTS+%7C+30+AI%2FML+SYSTEMS+%E2%96%B2;%E2%97%86+SELF-EVOLVING+AGENTS+%7C+COMPUTER+VISION+%E2%97%86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -71,7 +71,7 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="24"/> | **Focus:** AI/ML, Computer Vision, Full Stack |
 | <img src="https://cdn-icons-png.flaticon.com/512/1260/1260215.png" width="24"/> | **Design:** UX Designer | Figma Master |
 | <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="24"/> | **Vibe:** Vibe Coding | Digital Marketing |
-| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 76 and counting |
+| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 88 and counting |
 
 </div>
       </td>
@@ -102,7 +102,7 @@
 
 <!-- Animated Stats Cards -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=00FFF5&center=true&vCenter=true&width=600&lines=65%2B+PROJECTS+ACROSS+6+CATEGORIES;18+AI%2FML+SYSTEMS+%7C+10+VISION+PROJECTS;15+WEB+APPS+%7C+5+CLOUD+SYSTEMS" alt="Stats Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=00FFF5&center=true&vCenter=true&width=600&lines=88+PROJECTS+ACROSS+7+CATEGORIES;30+AI%2FML+SYSTEMS+%7C+18+VISION+PROJECTS;18+WEB+APPS+%7C+5+CLOUD+SYSTEMS" alt="Stats Typing"/>
 </div>
 
 <br/>
@@ -112,27 +112,27 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/AI%20%2F%20ML-18%20PROJECTS-00fff5?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/AI%20%2F%20ML-30%20PROJECTS-00fff5?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-28%25-00fff5?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CAPACITY-34%25-00fff5?style=flat-square"/>
         <br/><sub>SYNAPTICA, NeuroXAI, Self-Evolving Agent</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/VISION-10%20PROJECTS-e94560?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/VISION-18%20PROJECTS-e94560?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-15%25-e94560?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CAPACITY-20%25-e94560?style=flat-square"/>
         <br/><sub>Gesture Control, Driver Monitoring, YOLO</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/WEB-15%20PROJECTS-0f3460?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/WEB-18%20PROJECTS-0f3460?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-23%25-0f3460?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CAPACITY-20%25-0f3460?style=flat-square"/>
         <br/><sub>Portfolio, Landing Pages, E-commerce</sub>
       </td>
     </tr>
@@ -142,24 +142,24 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-8%25-16213e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CAPACITY-6%25-16213e?style=flat-square"/>
         <br/><sub>Federated Learning, AWS, GCP</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/HACKATHON-2%20PROJECTS-1a1a2e?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/HACKATHON-3%20PROJECTS-1a1a2e?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="80" height="80"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/CAPACITY-3%25-1a1a2e?style=flat-square"/>
-        <br/><sub>AadhaarInsight360, UIDAI-815</sub>
+        <br/><sub>AadhaarInsight360, UIDAI, PRISM</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/PRIVATE-2%20PROJECTS-333333?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/TOOLS%20%26%20SECURITY-14%20PROJECTS-333333?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-3%25-333333?style=flat-square"/>
-        <br/><sub>CAM AI, Insta Tool</sub>
+        <img src="https://img.shields.io/badge/CAPACITY-16%25-333333?style=flat-square"/>
+        <br/><sub>Extensions, Bots, Security, Utilities</sub>
       </td>
     </tr>
   </table>
@@ -326,7 +326,7 @@
 </div>
 
 <details>
-<summary><b>AI & MACHINE LEARNING [ 18 Projects ]</b></summary>
+<summary><b>AI & MACHINE LEARNING [ 30 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
@@ -344,21 +344,34 @@
 | **High-Dim Clustering** | Deep learning for big data clustering | Autoencoders, Spark |
 | **OS Agent** | Operating system automation agent | Python, System APIs |
 | **Project End Agent** | Intelligent project management | LLM, Automation |
-| **Gen Projects** | Generative AI experiments | GANs, Diffusion |
-| **Gemini** | Google Gemini API integrations | Gemini API, Python |
+| **Gemini Full Project** | Google Gemini API integrations | Gemini API, Python |
 | **Gemini DevPost** | Hackathon Gemini project | Gemini, Web |
-| **Laptop Control Agent** | Autonomous laptop control | Computer Vision |
-| **Browser Agent** | Intelligent browser automation | Selenium, LLM |
+| **Laptop Control Agent** | Autonomous laptop control | Computer Vision, LLM |
+| **Browser Project** | Intelligent browser automation | Selenium, LLM |
+| **Deep Research Agent** | AI research across 7 trusted sources | JavaScript, APIs |
+| **Pandi-GPT** | Custom GPT conversational assistant | GPT, NLP |
+| **Anim-AI-System** | Generative AI for animations from prompts | GANs, Diffusion |
+| **Alzheimers Detection** | CNN-based medical imaging for Alzheimer's | TensorFlow, Keras |
+| **NEURON-X Omega** | Self-sovereign permanent AI memory system | Python, Anthropic Claude |
+| **Conversational HCI** | LLM evaluation pipeline for HCI research | Flask, OpenAI, scikit-learn |
+| **PRAJNA Satellite AI** | Satellite data processing for ISRO/ISTRAC | Python, Graph Processing |
+| **Brain Tumor Detection** | MRI-based tumor classification platform | FastAPI, TensorFlow, React |
+| **VAYU AI** | Pollution death risk predictor with AQI forecast | Streamlit, NASA APIs |
+| **AI Team Orchestrator** | Multi-AI collaboration (GPT+Gemini+Claude) | Node.js, Express |
+| **Army Defense AI** | Military surveillance threat detection | Computer Vision, AI |
+| **NeuroGraphis** | Neural network visualization and analysis | Python, Graph Analysis |
+| **AI Image Recognition** | Multi-class image classification system | TensorFlow, Transfer Learning |
 
 </details>
 
 <details>
-<summary><b>COMPUTER VISION [ 10 Projects ]</b></summary>
+<summary><b>COMPUTER VISION [ 18 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
 | **AI Gesture Control** | Touch-free laptop control using hand gestures | OpenCV, MediaPipe, PyAutoGUI |
+| **Gesture Control System** | Mouse and keyboard via hand gestures | OpenCV, MediaPipe |
 | **Driver Monitoring** | Real-time drowsiness and distraction detection | Dlib, TensorFlow, OpenCV |
 | **Lane Monitoring** | Lane departure warning system | OpenCV, Deep Learning |
 | **Bus Attendance** | Automated student attendance on buses | Face Recognition, IoT |
@@ -367,7 +380,14 @@
 | **Invisibility Cloak** | Harry Potter style invisibility effect | OpenCV, NumPy |
 | **Sign Language** | Sign language gesture recognition | MediaPipe, TensorFlow |
 | **CCTV Google** | Smart CCTV with cloud integration | Cloud Vision, Python |
-| **YOLOv Real-time** | Real-time object detection | YOLOv8, PyTorch |
+| **Gesture Calculator** | Calculator controlled by hand gestures | OpenCV, MediaPipe |
+| **MirrorBody-X** | AI body analysis and fitness tracking | Computer Vision |
+| **Neuro Mirror AI** | Facial expression and emotion recognition | Deep Learning |
+| **Gesture 3D Web** | Browser-based 3D gesture recognition | WebGL, ML |
+| **GuardianAI** | On-device Android malware detector | TensorFlow Lite, Kotlin |
+| **Cloud Referee Kiro** | AI sports referee for foul detection | Video Analysis, Python |
+| **SmartRoadGuardian** | Road safety and hazard detection | Computer Vision |
+| **3D Gesture Web** | 3D hand tracking in browser | WebGL, MediaPipe |
 
 </details>
 
@@ -379,9 +399,9 @@
 |:--------|:------------|:-----------|
 | **Federated Cloud** | Privacy-preserving energy optimization | TensorFlow Federated, PySpark |
 | **High-Dim Clustering** | Scalable clustering for big data | Autoencoders, Spark |
-| **AI E-Governance** | Secure AI government services | AWS, Python, Security |
-| **AWS Projects** | Various AWS implementations | AWS Services, Terraform |
-| **Cloud Referee Kiro** | Cloud-based monitoring system | GCP, Real-time Processing |
+| **AI E-Governance** | Secure AI government services | AWS, NLP, Security |
+| **AWS Crowd Agent** | Serverless scaling and cost optimization | AWS Services, Python |
+| **Cloud Referee Kiro** | Cloud-based AI monitoring system | GCP, Real-time Processing |
 
 </details>
 
@@ -391,44 +411,59 @@
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| **Personal Portfolio** | Professional portfolio website | Next.js, React, CSS |
-| **Xerironx Studio** | Creative studio website | Modern Web Tech |
+| **Personal Portfolio** | Professional portfolio website | HTML, CSS, JavaScript |
+| **Karthik Config** | GitHub profile and config files | TypeScript |
+| **Xerironx Studio** | Creative studio website | TypeScript, Modern Web |
 | **Skylight Landing** | Premium landing page | HTML, CSS, JavaScript |
 | **Cloths Landing** | E-commerce fashion landing | Responsive Design |
-| **OriMind** | Cognitive mind-mapping tool | D3.js, HTML Canvas |
-| **Infinall Next.js** | Next.js project template | Next.js, TypeScript |
-| **Client Portfolio** | Portfolio website for client | React, Modern CSS |
-| **DocsFree** | Document management platform | Web Technologies |
-| **Animation Projects** | Web animation experiments | CSS, JavaScript |
-| **Calculator Apps** | Various calculator implementations | HTML/CSS/JS, React |
-| **Chrome Extension** | Browser extension projects | Chrome APIs, JavaScript |
-| **Developer Tools** | Development utilities | Various |
-| **Movie Platform** | Movie browsing application | API Integration, React |
-| **Shop Platform** | E-commerce implementation | Full Stack |
-| **Radio App** | Online radio streaming | Audio APIs, Web |
+| **OriMind** | Interactive 3D mental health platform | HTML, Canvas |
+| **Infinall Next.js** | SaaS platform for AI agents | Next.js, TypeScript |
+| **Manish Portfolio** | Client portfolio website | TypeScript |
+| **Radio Streaming** | Online radio player | TypeScript, Audio APIs |
+| **Movie Virtual Theater** | VR movie watching experience | Web Technologies |
+| **Sync Watch** | Synchronized remote video platform | JavaScript |
+| **TerraView OS** | Open-source 3D mapping platform | Vite, TypeScript, deck.gl |
+| **TerraView Next** | Next.js geospatial mapping app | Next.js, MapLibre GL |
+| **LeadFinder Pro** | Lead generation platform | Next.js, Firebase |
+| **PropScore Redesign** | Property scoring analytics platform | Full Stack |
+| **Road Career Guidance** | AI career roadmap platform | HTML |
+| **3D Euler Path Finder** | 3D graph algorithm visualization | Python, WebGL |
+| **Envato Downloader** | Multi-strategy content downloader | Flask, Python |
 
 </details>
 
 <details>
-<summary><b>GOVERNMENT & HACKATHONS [ 2 Projects ]</b></summary>
+<summary><b>HACKATHON & GOVERNMENT [ 3 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
 | **AadhaarInsight360** | UIDAI Hackathon 2026 - Analytics for Aadhaar data | Streamlit, Plotly, Pandas |
-| **UIDAI-815 Hackathon** | Team submission with policy simulation | Python, Data Analysis |
+| **UIDAI Hackathon Solution** | Team submission with policy simulation | Python, Data Analysis |
+| **PRISM** | AI for pharma manufacturing - AVEVA x IIT Hyderabad | LightGBM, DWT, Streamlit |
 
 </details>
 
 <details>
-<summary><b>LIBRARY & EDUCATION [ 3 Projects ]</b></summary>
+<summary><b>TOOLS, SECURITY & UTILITIES [ 14 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
+| **DocTools Pro** | Document processing toolkit | Full Stack |
+| **Complete PDF** | PDF manipulation tool | Python |
+| **VSCode Hack Extension** | Productivity VS Code extension | TypeScript |
+| **Chrext Chrome Extension** | Browser automation extension | JavaScript, Chrome APIs |
+| **Telegram Bot** | Automated bot with command handling | Python |
+| **Calc Python** | CLI calculator | Python |
+| **Prescription System** | Digital prescription management | Dart, Flutter |
+| **Scriptytt** | Experimental scripts and utilities | Mixed |
 | **Library Management v2.0** | Advanced library system | Full Stack |
-| **Track** | Educational tracking | Python, Web |
-| **Vulnerability Checker** | Security scanning tool | Security, Python |
+| **No-Track Anti-Spyware** | Tracker and spyware blocker | Dart |
+| **Vulnerability Checker** | Web security scanner | Python |
+| **AI Cyber Surveillance** | Network intrusion detection toolkit | Python |
+| **Nexara Blockchain** | Layer-1 blockchain with custom VM | Rust |
+| **Family Circle App** | Family connection application | Mobile |
 
 </details>
 
