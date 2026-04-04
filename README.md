@@ -11,7 +11,7 @@
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3C%2F%3E+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B2+88+PROJECTS+%7C+30+AI%2FML+SYSTEMS+%E2%96%B2;%E2%97%86+SELF-EVOLVING+AGENTS+%7C+COMPUTER+VISION+%E2%97%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00FFF5&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%3C%2F%3E+BUILDING+INTELLIGENT+SYSTEMS;%E2%96%B2+12+OSS+PRs+%7C+GRAFANA+%C2%B7+PYTORCH+%C2%B7+REACT+ROUTER+%E2%96%B2;%E2%97%86+AI+SYSTEMS+%7C+OPEN+SOURCE+CONTRIBUTOR+%E2%97%86" alt="Typing SVG" />
   </a>
 </div>
 
@@ -468,6 +468,140 @@
 </details>
 
 
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- Open Source Contributions Section -->
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/>
+    OPEN SOURCE CONTRIBUTIONS
+    <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30"/>
+  </h2>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PRs_MERGED_%2F_OPEN-12-00ff00?style=for-the-badge&labelColor=0a0a0a&logo=git&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/REPOS_CONTRIBUTED-10-00fff5?style=for-the-badge&labelColor=0a0a0a&logo=github&logoColor=00fff5"/>
+  <img src="https://img.shields.io/badge/LINES_CHANGED-1500+-e94560?style=for-the-badge&labelColor=0a0a0a&logo=codereview&logoColor=e94560"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+> **Active contributor to production codebases used by millions of developers worldwide.**
+> Bugs found, diagnosed, and fixed independently — not drive-by typo fixes.
+
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td align="center" width="140">
+<img src="https://img.shields.io/badge/MERGED-00ff00?style=flat-square&labelColor=0a0a0a" width="70"/>
+</td>
+<td>
+
+**[Grafana](https://github.com/grafana/grafana)** — _65k+ stars · Observability platform_
+<br/>
+Fixed MySQL query builder incorrectly stripping `#` characters inside quoted strings, breaking queries with hex color codes and anchor references.
+<br/>
+[`PR #121535`](https://github.com/grafana/grafana/pull/121535) · Go · Shipped in **Grafana v13.0.0**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/OPEN-00fff5?style=flat-square&labelColor=0a0a0a" width="70"/>
+</td>
+<td>
+
+**[Streamlit](https://github.com/streamlit/streamlit)** — _40k+ stars · Python data app framework_
+<br/>
+**PR #14582** — Added `border-radius` rounding to `st.video` and `st.map` components with inner-wrapper approach to preserve toolbar visibility.
+<br/>
+**PR #14583** — Graceful fallback for CSS Color Level 4 formats (oklch, lab, display-p3) that crash `color2k`, preventing full app crashes.
+<br/>
+[`PR #14582`](https://github.com/streamlit/streamlit/pull/14582) · [`PR #14583`](https://github.com/streamlit/streamlit/pull/14583) · TypeScript / React
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/OPEN-00fff5?style=flat-square&labelColor=0a0a0a" width="70"/>
+</td>
+<td>
+
+**[PyTorch Lightning](https://github.com/Lightning-AI/pytorch-lightning)** — _28k+ stars · Deep learning framework_
+<br/>
+Fixed async checkpoint plugin: tensors were cloned but stayed on GPU, causing CUDA memory leaks and cross-device errors. Added proper CPU-copy with device-aware branching (CPU vs CUDA/TPU/XLA).
+<br/>
+[`PR #21631`](https://github.com/Lightning-AI/pytorch-lightning/pull/21631) · Python / PyTorch
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/OPEN-00fff5?style=flat-square&labelColor=0a0a0a" width="70"/>
+</td>
+<td>
+
+**[React Router](https://github.com/remix-run/react-router)** — _54k+ stars · React routing library_
+<br/>
+Fixed `NavLink` component applying active class to non-matching routes when `search` params overlap with route patterns.
+<br/>
+[`PR #14942`](https://github.com/remix-run/react-router/pull/14942) · TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/OPEN-00fff5?style=flat-square&labelColor=0a0a0a" width="70"/>
+</td>
+<td>
+
+**[Vercel AI SDK](https://github.com/vercel/ai)** — _15k+ stars · AI integration toolkit_
+<br/>
+[`PR #13961`](https://github.com/vercel/ai/pull/13961) · TypeScript
+&nbsp;&nbsp;|&nbsp;&nbsp;
+**[Fastify](https://github.com/fastify/fastify)** — _33k+ stars · Node.js web framework_
+<br/>
+[`PR #6628`](https://github.com/fastify/fastify/pull/6628) · JavaScript
+&nbsp;&nbsp;|&nbsp;&nbsp;
+**[Drizzle ORM](https://github.com/drizzle-team/drizzle-orm)** — _28k+ stars · TypeScript ORM_
+<br/>
+[`PR #5566`](https://github.com/drizzle-team/drizzle-orm/pull/5566) · TypeScript
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/OPEN-00fff5?style=flat-square&labelColor=0a0a0a" width="70"/>
+</td>
+<td>
+
+**[Microsoft AutoGen](https://github.com/microsoft/autogen)** — _40k+ stars · Multi-agent AI framework_
+<br/>
+[`PR #7497`](https://github.com/microsoft/autogen/pull/7497) · Python
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karthik-idikuda&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00fff5&icon_color=e94560&text_color=ffffff&ring_color=00fff5" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-idikuda&theme=radical&hide_border=true&background=0a0a0a&ring=00fff5&fire=e94560&currStreakLabel=00fff5&sideLabels=ffffff" width="49%"/>
+</div>
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
