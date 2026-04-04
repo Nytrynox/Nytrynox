@@ -36,6 +36,10 @@
   <table>
     <tr>
       <td width="50%" valign="top">
+        <div align="center">
+          <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="AI Animation"/>
+        </div>
+        <br/>
         <p align="center">
           <strong>AI Product Engineer</strong> crafting intelligent systems that solve real-world problems. From self-evolving agents to medical AI diagnostics, I build technology that matters.
         </p>
@@ -92,6 +96,10 @@
 ---
 
 ## Flagship Projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+</div>
 
 <div align="center">
   <table>
@@ -455,6 +463,10 @@ Fixed `NavLink` component applying active class to non-matching routes when `sea
 ---
 
 ## GitHub Stats
+
+<div align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthik-idikuda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%"/>
