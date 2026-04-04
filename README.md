@@ -462,23 +462,6 @@ Fixed `NavLink` component applying active class to non-matching routes when `sea
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthik-idikuda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthik-idikuda&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthik-idikuda&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
 ## Connect
 
 <div align="center">
