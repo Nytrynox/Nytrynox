@@ -244,7 +244,6 @@
         <p align="center">
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a0a0a"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0a0a0a"/>
-
         </p>
       </td>
     </tr>
