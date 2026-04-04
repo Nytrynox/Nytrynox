@@ -69,9 +69,8 @@
 | <img src="https://cdn-icons-png.flaticon.com/512/2641/2641457.png" width="24"/> | **Student** at Marwadi University |
 | <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" width="24"/> | **Location:** Hyderabad, Telangana 🇮🇳 (UTC +05:30) |
 | <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="24"/> | **Focus:** AI/ML, Computer Vision, Full Stack |
-| <img src="https://cdn-icons-png.flaticon.com/512/1260/1260215.png" width="24"/> | **Design:** UX Designer | Figma Master |
-| <img src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png" width="24"/> | **Vibe:** Vibe Coding | Digital Marketing |
-| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 88 and counting |
+| <img src="https://cdn-icons-png.flaticon.com/512/1260/1260215.png" width="24"/> | **Design:** UX/UI Design |
+| <img src="https://cdn-icons-png.flaticon.com/512/1183/1183669.png" width="24"/> | **Projects:** 77 and counting |
 
 </div>
       </td>
@@ -102,7 +101,7 @@
 
 <!-- Animated Stats Cards -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=00FFF5&center=true&vCenter=true&width=600&lines=88+PROJECTS+ACROSS+7+CATEGORIES;30+AI%2FML+SYSTEMS+%7C+18+VISION+PROJECTS;18+WEB+APPS+%7C+5+CLOUD+SYSTEMS" alt="Stats Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=500&color=00FFF5&center=true&vCenter=true&width=600&lines=77+PROJECTS+ACROSS+7+CATEGORIES;26+AI%2FML+SYSTEMS+%7C+17+VISION+PROJECTS;14+WEB+APPS+%7C+5+CLOUD+SYSTEMS" alt="Stats Typing"/>
 </div>
 
 <br/>
@@ -112,27 +111,27 @@
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/AI%20%2F%20ML-30%20PROJECTS-00fff5?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/AI%20%2F%20ML-26%20PROJECTS-00fff5?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" height="80"/>
         <br/><br/>
         <img src="https://img.shields.io/badge/CAPACITY-34%25-00fff5?style=flat-square"/>
-        <br/><sub>SYNAPTICA, NeuroXAI, Self-Evolving Agent</sub>
+        <br/><sub>NEURON-X, NeuroXAI, Self-Evolving Agent</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/VISION-18%20PROJECTS-e94560?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/VISION-17%20PROJECTS-e94560?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-20%25-e94560?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CAPACITY-22%25-e94560?style=flat-square"/>
         <br/><sub>Gesture Control, Driver Monitoring, YOLO</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/WEB-18%20PROJECTS-0f3460?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/WEB-14%20PROJECTS-0f3460?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-20%25-0f3460?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CAPACITY-18%25-0f3460?style=flat-square"/>
         <br/><sub>Portfolio, Landing Pages, E-commerce</sub>
       </td>
     </tr>
@@ -150,11 +149,11 @@
         <br/><br/>
         <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="80" height="80"/>
         <br/><br/>
-        <img src="https://img.shields.io/badge/CAPACITY-3%25-1a1a2e?style=flat-square"/>
+        <img src="https://img.shields.io/badge/CAPACITY-4%25-1a1a2e?style=flat-square"/>
         <br/><sub>AadhaarInsight360, UIDAI, PRISM</sub>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/TOOLS%20%26%20SECURITY-14%20PROJECTS-333333?style=for-the-badge&labelColor=0a0a0a"/>
+        <img src="https://img.shields.io/badge/TOOLS%20%26%20SECURITY-12%20PROJECTS-333333?style=for-the-badge&labelColor=0a0a0a"/>
         <br/><br/>
         <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="80" height="80"/>
         <br/><br/>
@@ -221,17 +220,17 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">SYNAPTICA</h3>
+        <h3 align="center">NEURON-X Omega</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/AI_ASSISTANT-00fff5?style=flat-square&labelColor=0a0a0a"/>
+          <img src="https://img.shields.io/badge/AI_MEMORY_SYSTEM-00fff5?style=flat-square&labelColor=0a0a0a"/>
         </div>
         <p align="center">
-          Next-generation AI personal assistant with contextual understanding, task automation, and multi-platform sync. Built with PyTorch, FastAPI, and custom fine-tuned LLMs.
+          Biologically-inspired AI memory system with custom SOMA-DB storage, Ebbinghaus decay curves, and contradiction detection across memory layers.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0a0a0a"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0a0a0a"/>
+          <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white&labelColor=0a0a0a"/>
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0a0a0a"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a0a0a"/>
         </p>
       </td>
       <td width="50%">
@@ -245,7 +244,7 @@
         <p align="center">
           <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0a0a0a"/>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0a0a0a"/>
-          <img src="https://img.shields.io/badge/HIPAA-Compliant-00fff5?style=flat-square&labelColor=0a0a0a"/>
+
         </p>
       </td>
     </tr>
@@ -326,12 +325,11 @@
 </div>
 
 <details>
-<summary><b>AI & MACHINE LEARNING [ 30 Projects ]</b></summary>
+<summary><b>AI & MACHINE LEARNING [ 26 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
-| **SYNAPTICA** | AI Personal Assistant with contextual understanding and task automation | PyTorch, FastAPI, MongoDB |
 | **NeuroXAI** | Explainable AI for Alzheimer's detection from MRI scans | TensorFlow, Grad-CAM, React |
 | **Self-Evolving Agent** | Recursive self-improvement AI agent with code modification | GPT-4, Claude, Docker |
 | **AI Wildfire Prevention** | Early warning using satellite imagery and IoT sensors | CNN, NASA FIRMS, GIS |
@@ -343,14 +341,12 @@
 | **Federated Cloud** | Energy-efficient resource allocation | TensorFlow Federated, PySpark |
 | **High-Dim Clustering** | Deep learning for big data clustering | Autoencoders, Spark |
 | **OS Agent** | Operating system automation agent | Python, System APIs |
-| **Project End Agent** | Intelligent project management | LLM, Automation |
 | **Gemini Full Project** | Google Gemini API integrations | Gemini API, Python |
 | **Gemini DevPost** | Hackathon Gemini project | Gemini, Web |
 | **Laptop Control Agent** | Autonomous laptop control | Computer Vision, LLM |
 | **Browser Project** | Intelligent browser automation | Selenium, LLM |
 | **Deep Research Agent** | AI research across 7 trusted sources | JavaScript, APIs |
 | **Pandi-GPT** | Custom GPT conversational assistant | GPT, NLP |
-| **Anim-AI-System** | Generative AI for animations from prompts | GANs, Diffusion |
 | **Alzheimers Detection** | CNN-based medical imaging for Alzheimer's | TensorFlow, Keras |
 | **NEURON-X Omega** | Self-sovereign permanent AI memory system | Python, Anthropic Claude |
 | **Conversational HCI** | LLM evaluation pipeline for HCI research | Flask, OpenAI, scikit-learn |
@@ -358,14 +354,13 @@
 | **Brain Tumor Detection** | MRI-based tumor classification platform | FastAPI, TensorFlow, React |
 | **VAYU AI** | Pollution death risk predictor with AQI forecast | Streamlit, NASA APIs |
 | **AI Team Orchestrator** | Multi-AI collaboration (GPT+Gemini+Claude) | Node.js, Express |
-| **Army Defense AI** | Military surveillance threat detection | Computer Vision, AI |
 | **NeuroGraphis** | Neural network visualization and analysis | Python, Graph Analysis |
 | **AI Image Recognition** | Multi-class image classification system | TensorFlow, Transfer Learning |
 
 </details>
 
 <details>
-<summary><b>COMPUTER VISION [ 18 Projects ]</b></summary>
+<summary><b>COMPUTER VISION [ 17 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
@@ -373,7 +368,6 @@
 | **AI Gesture Control** | Touch-free laptop control using hand gestures | OpenCV, MediaPipe, PyAutoGUI |
 | **Gesture Control System** | Mouse and keyboard via hand gestures | OpenCV, MediaPipe |
 | **Driver Monitoring** | Real-time drowsiness and distraction detection | Dlib, TensorFlow, OpenCV |
-| **Lane Monitoring** | Lane departure warning system | OpenCV, Deep Learning |
 | **Bus Attendance** | Automated student attendance on buses | Face Recognition, IoT |
 | **Attendance v1.0** | Face recognition with liveness detection | DeepFace, Flask |
 | **Attendance v2.0** | Cloud-synced attendance with mobile app | MongoDB Atlas, Flutter |
@@ -406,7 +400,7 @@
 </details>
 
 <details>
-<summary><b>WEB DEVELOPMENT [ 18 Projects ]</b></summary>
+<summary><b>WEB DEVELOPMENT [ 14 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
@@ -418,17 +412,13 @@
 | **Cloths Landing** | E-commerce fashion landing | Responsive Design |
 | **OriMind** | Interactive 3D mental health platform | HTML, Canvas |
 | **Infinall Next.js** | SaaS platform for AI agents | Next.js, TypeScript |
-| **Manish Portfolio** | Client portfolio website | TypeScript |
 | **Radio Streaming** | Online radio player | TypeScript, Audio APIs |
-| **Movie Virtual Theater** | VR movie watching experience | Web Technologies |
 | **Sync Watch** | Synchronized remote video platform | JavaScript |
 | **TerraView OS** | Open-source 3D mapping platform | Vite, TypeScript, deck.gl |
 | **TerraView Next** | Next.js geospatial mapping app | Next.js, MapLibre GL |
-| **LeadFinder Pro** | Lead generation platform | Next.js, Firebase |
 | **PropScore Redesign** | Property scoring analytics platform | Full Stack |
 | **Road Career Guidance** | AI career roadmap platform | HTML |
 | **3D Euler Path Finder** | 3D graph algorithm visualization | Python, WebGL |
-| **Envato Downloader** | Multi-strategy content downloader | Flask, Python |
 
 </details>
 
@@ -445,7 +435,7 @@
 </details>
 
 <details>
-<summary><b>TOOLS, SECURITY & UTILITIES [ 14 Projects ]</b></summary>
+<summary><b>TOOLS, SECURITY & UTILITIES [ 12 Projects ]</b></summary>
 <br/>
 
 | Project | Description | Tech Stack |
@@ -457,13 +447,11 @@
 | **Telegram Bot** | Automated bot with command handling | Python |
 | **Calc Python** | CLI calculator | Python |
 | **Prescription System** | Digital prescription management | Dart, Flutter |
-| **Scriptytt** | Experimental scripts and utilities | Mixed |
 | **Library Management v2.0** | Advanced library system | Full Stack |
 | **No-Track Anti-Spyware** | Tracker and spyware blocker | Dart |
 | **Vulnerability Checker** | Web security scanner | Python |
 | **AI Cyber Surveillance** | Network intrusion detection toolkit | Python |
 | **Nexara Blockchain** | Layer-1 blockchain with custom VM | Rust |
-| **Family Circle App** | Family connection application | Mobile |
 
 </details>
 
