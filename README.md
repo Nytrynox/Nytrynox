@@ -14,7 +14,7 @@
 
 ### Shipped in Production
 
-My code runs in **Grafana v13.0.0** — used by Netflix, Microsoft, PayPal, and over 20M+ users worldwide.
+My code runs in **Grafana v13.0.0** and **Vercel AI SDK** — used by Netflix, Microsoft, PayPal, Vercel, and millions of developers worldwide.
 
 | What I Fixed | Where | Impact |
 |:---|:---|:---|
@@ -23,9 +23,10 @@ My code runs in **Grafana v13.0.0** — used by Netflix, Microsoft, PayPal, and 
 | CSS Color Level 4 formats (oklch, lab, display-p3) crash `color2k` → full app crash | [**Streamlit**](https://github.com/streamlit/streamlit/pull/14583) · 40k+ ★ | Under Review |
 | `st.video` and `st.map` missing border-radius rounding, toolbar clipped by overflow fix | [**Streamlit**](https://github.com/streamlit/streamlit/pull/14582) · 40k+ ★ | Under Review |
 | `NavLink` applying active class to non-matching routes when search params overlap | [**React Router**](https://github.com/remix-run/react-router/pull/14942) · 54k+ ★ | Under Review |
-| Edge-case fixes and improvements | [**Vercel AI SDK**](https://github.com/vercel/ai/pull/13961) · [**Fastify**](https://github.com/fastify/fastify/pull/6628) · [**Drizzle ORM**](https://github.com/drizzle-team/drizzle-orm/pull/5566) · [**AutoGen**](https://github.com/microsoft/autogen/pull/7497) | Under Review |
+| `isDynamicToolUIPart` not exported from the `ai` package — TypeScript consumers couldn't use dynamic tool UI rendering | [**Vercel AI SDK**](https://github.com/vercel/ai/pull/13961) · 12k+ ★ | **Merged** · Shipped to npm |
+| Edge-case fixes and improvements | [**Fastify**](https://github.com/fastify/fastify/pull/6628) · [**Drizzle ORM**](https://github.com/drizzle-team/drizzle-orm/pull/5566) · [**AutoGen**](https://github.com/microsoft/autogen/pull/7497) | Under Review |
 
-> **12 PRs** across **10 repos**. Every one is a real bug I found, diagnosed, and fixed — not documentation or typo patches.
+> **2 merged in production**, 10 under review across **10 repos**. Every one is a real bug I found, diagnosed, and fixed — not documentation or typo patches.
 
 ---
 
