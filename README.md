@@ -14,19 +14,20 @@
 
 ### Shipped in Production
 
-My code runs in **Grafana v13.0.0** and **Vercel AI SDK** — used by Netflix, Microsoft, PayPal, Vercel, and millions of developers worldwide.
+My code runs in **Grafana** (2 PRs merged) and **Vercel AI SDK** — used by Netflix, Microsoft, PayPal, Vercel, and millions of developers worldwide.
 
 | What I Fixed | Where | Impact |
 |:---|:---|:---|
 | MySQL query builder was stripping `#` inside quoted strings, silently breaking queries with hex colors and anchor refs | [**Grafana**](https://github.com/grafana/grafana/pull/121535) · 65k+ ★ | **Merged** · Shipped in v13.0.0 |
+| PostgreSQL and MSSQL SQL comment stripping was not quote-aware — broke queries containing `--` or `/*` inside string literals | [**Grafana**](https://github.com/grafana/grafana/pull/121772) · 65k+ ★ | **Merged** · Shipped in production |
 | Async checkpoint plugin cloned tensors but kept them on GPU — CUDA memory leak + cross-device crash | [**PyTorch Lightning**](https://github.com/Lightning-AI/pytorch-lightning/pull/21631) · 28k+ ★ | Under Review |
 | CSS Color Level 4 formats (oklch, lab, display-p3) crash `color2k` → full app crash | [**Streamlit**](https://github.com/streamlit/streamlit/pull/14583) · 40k+ ★ | Under Review |
 | `st.video` and `st.map` missing border-radius rounding, toolbar clipped by overflow fix | [**Streamlit**](https://github.com/streamlit/streamlit/pull/14582) · 40k+ ★ | Under Review |
 | `NavLink` applying active class to non-matching routes when search params overlap | [**React Router**](https://github.com/remix-run/react-router/pull/14942) · 54k+ ★ | Under Review |
 | `isDynamicToolUIPart` not exported from the `ai` package — TypeScript consumers couldn't use dynamic tool UI rendering | [**Vercel AI SDK**](https://github.com/vercel/ai/pull/13961) · 12k+ ★ | **Merged** · Shipped to npm |
-| Edge-case fixes and improvements | [**Fastify**](https://github.com/fastify/fastify/pull/6628) · [**Drizzle ORM**](https://github.com/drizzle-team/drizzle-orm/pull/5566) · [**AutoGen**](https://github.com/microsoft/autogen/pull/7497) | Under Review |
+| Edge-case fixes and improvements | [**Drizzle ORM**](https://github.com/drizzle-team/drizzle-orm/pull/5566) · [**AutoGen**](https://github.com/microsoft/autogen/pull/7497) | Under Review |
 
-> **2 merged in production**, 10 under review across **10 repos**. Every one is a real bug I found, diagnosed, and fixed — not documentation or typo patches.
+> **3 merged in production**, 7 under review across **9 repos**. Every one is a real bug I found, diagnosed, and fixed — not documentation or typo patches.
 
 ---
 
@@ -96,7 +97,7 @@ Layer-1 blockchain built from scratch in Rust. Custom VM (NXVM), smart contract 
 </table>
 
 <details>
-<summary><strong>All 77 projects →</strong></summary>
+<summary><strong>All 90+ projects →</strong></summary>
 <br/>
 
 **AI & Machine Learning** — 26 projects
@@ -205,6 +206,18 @@ Layer-1 blockchain built from scratch in Rust. Custom VM (NXVM), smart contract 
 | Vulnerability Checker | Web security scanner | Python |
 | AI Cyber Surveillance | Network intrusion detection toolkit | Python |
 | Nexara Blockchain | Layer-1 blockchain with custom VM | Rust |
+
+**New & Recent** — 7 projects
+
+| Project | What it does | Built with |
+|:---|:---|:---|
+| Style Pulse | Real-time AI fashion & electronics price tracker across 10 Amazon domains + Flipkart, Myntra, Croma | TypeScript, Next.js |
+| BrainScan AI | MRI brain tumor detection with VGG-16, geospatial analytics, and global health insights | FastAPI, TensorFlow, React |
+| GuardianAI Malware Detector | On-device Android malware detection with four-factor threat analysis | Kotlin, TensorFlow Lite, Jetpack Compose |
+| LeadFinder Pro | Full-stack lead generation platform with Razorpay payments | Next.js, Firebase, Razorpay |
+| TerraView OS | Open-source 3D real-time mapping with GPU-accelerated visualization | MapLibre GL, deck.gl, TypeScript |
+| Sync Watch | Real-time synchronized video watching for remote collaboration | JavaScript, WebSockets |
+| Neuro Mirror AI | Real-time facial expression analysis and emotion recognition | TypeScript, Deep Learning |
 
 </details>
 
